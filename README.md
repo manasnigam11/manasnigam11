@@ -27,14 +27,10 @@
 
 ## 🚀 Featured Work
 <p align="center">
-  
-  <a href="https://github.com/manasnigam11/DermAI---AI-Skin-Disease-Screening-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=DermAI---AI-Skin-Disease-Screening-System&theme=tokyonight" />
-  </a>
 
-  <a href="https://github.com/manasnigam11/MindEase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=MindEase&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=DermAI---AI-Skin-Disease-Screening-System&theme=tokyonight&cache_seconds=86400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=MindEase&theme=tokyonight&cache_seconds=86400" />
 
 </p>
 
