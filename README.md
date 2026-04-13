@@ -20,13 +20,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=manasnigam11&show_icons=true)
-
----
-
 ## 🔥 LeetCode Stats
-![LeetCode](https://leetcard.jacoblin.cool/manasnigam07)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manasnigam07?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
