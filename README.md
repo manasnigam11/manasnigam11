@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Stay+calm.+Adapt+fast.+Win+silently.;Consistency+beats+talent+every+time.;Built+to+learn.+Designed+to+win."/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manasnigam11&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
