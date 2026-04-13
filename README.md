@@ -2,19 +2,19 @@
 
 🎓 B.Tech CSE (AI) Student  
 🤖 AI/ML Enthusiast  
-🚀 Hackathon Builder  
+🚀 Jack of all traits and better than master of one 
 
 ---
 
 ## 🔧 Tech Stack
-- Python, Java  
-- MongoDB  
-- React, Node.js  
+- Python, Java ,C++,Javascript,Typescript,html,css
+- MongoDB ,MySQL
+- React, Node.js ,Vite 
 - Machine Learning, Deep Learning  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects I am proud of
 - 🧠 DermAI – AI Skin Disease Detection System  
 - 💙 MindEase – Mental Health Support System  
 
@@ -26,9 +26,9 @@
 ---
 
 ## 🔥 LeetCode Stats
-![LeetCode](https://leetcard.jacoblin.cool/YOUR_USERNAME)
+![LeetCode](https://leetcard.jacoblin.cool/manasnigam07)
 
 ---
 
 ## 📫 Connect
-- LinkedIn: your-link
+- LinkedIn: https://www.linkedin.com/in/manas-nigam-b36a62325/
