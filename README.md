@@ -22,13 +22,9 @@
 ---
 
 ## 🚀 Featured Work
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=DermAI---AI-Skin-Disease-Screening-System&theme=tokyonight&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasnigam11&repo=MindEase&theme=tokyonight&hide_border=true" />
-
-</p>
+- 🧠 [DermAI – AI Skin Disease Detection System](https://github.com/manasnigam11/DermAI---AI-Skin-Disease-Screening-System)  
+- 💙 [MindEase – Mental Health Support System](https://github.com/manasnigam11/MindEase)
 
 ---
 
