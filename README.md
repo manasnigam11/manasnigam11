@@ -1,4 +1,4 @@
-<h1 align="center">Manas Nigam Here Making a Boom in Tech-World ⚡</h1>
+<h1 align="center">Manas Nigam getting ready to dive in Tech World ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Stay+calm.+Adapt+fast.+Win+silently.;Consistency+beats+talent+every+time.;Built+to+learn.+Designed+to+win."/>
