@@ -12,6 +12,22 @@
 - 🚀 I build real-world systems, not just projects  
 - ⚡ Calm mindset • High execution • Continuous growth  
 
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+![System Design](https://img.shields.io/badge/System%20Design-Architecting%20Scalable%20Systems-ff6b6b?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Docker%20%7C%20Cloud-4caf50?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Building%20Intelligent%20Systems-9c27b0?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Problem%20Solving-ff9800?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-APIs%20%7C%20Databases%20%7C%20Scalability-2196f3?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Learning%20%26%20Contributing-00bcd4?style=for-the-badge)
+
+</p>
+
 ---
 
 ## ⚙️ Tech Arsenal
