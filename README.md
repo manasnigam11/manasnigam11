@@ -67,7 +67,6 @@
 
 ## 🚀 Featured Work
 
-- 🧠 [DermAI – AI Skin Disease Detection System](https://github.com/manasnigam11/DermAI---AI-Skin-Disease-Screening-System)  
 - 👥 [Groupify – Collaborative Team Management Platform](https://github.com/manasnigam11/Groupify)
 - 💙 [MindEase – Mental Health Support System](https://github.com/manasnigam11/MindEase)
 
